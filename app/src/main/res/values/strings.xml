@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ways</string>
+    <string name="one_menu_item">One</string>
+    <string name="hide_action_bar">Hide Action Bar</string>
+    <string name="show_action_bar">Show Action Bar</string>
+</resources>
